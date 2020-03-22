@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656970080162",
+    "firebase_url": "https://masksearcher.firebaseio.com",
+    "project_id": "masksearcher",
+    "storage_bucket": "masksearcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656970080162:android:741a4d51b99c4b39629cfb",
+        "android_client_info": {
+          "package_name": "com.euphorbia.masksearcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656970080162-11o8g8oso15qm3cuvnv2tio6flbitdd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "@string/google_services_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656970080162-11o8g8oso15qm3cuvnv2tio6flbitdd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
